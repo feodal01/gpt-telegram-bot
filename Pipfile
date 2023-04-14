@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytelegrambotapi = "4.10.0"
+openapi = "1.1.0"
+pyyaml = "6.0"
+aiohttp = "3.8.4"
+python-telegram-bot = "20.2"
+openai = "0.27.4"
+tiktoken = "0.3.3"
+python-dotenv = "1.0.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
